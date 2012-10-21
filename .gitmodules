@@ -1,6 +1,6 @@
 [submodule "CS106A"]
 	path = CS106A
-	url = https://github.com/ConAntonakos/Stanford_University
+	url = git://github.com/ConAntonakos/Stanford_University
 [submodule "CS106B"]
 	path = CS106B
 	url = https://github.com/ConAntonakos/Stanford_University

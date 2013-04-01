@@ -1,4 +1,8 @@
 Stanford University
 ===================
 
-Code samples from my CS106A and CS106B classes.
+My work done in the following classes:
+
+	* CS106A: Programming Methodology
+	* CS106B: Programming Abstractions
+	* CS193P: iPhone Application Development
